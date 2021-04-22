@@ -1,0 +1,9 @@
+D:\Programming\FigureCalc\bin\Debug\netcoreapp3.1\FigureCalc.deps.json
+D:\Programming\FigureCalc\bin\Debug\netcoreapp3.1\FigureCalc.dll
+D:\Programming\FigureCalc\bin\Debug\netcoreapp3.1\FigureCalc.pdb
+D:\Programming\FigureCalc\obj\Debug\netcoreapp3.1\FigureCalc.csprojAssemblyReference.cache
+D:\Programming\FigureCalc\obj\Debug\netcoreapp3.1\FigureCalc.AssemblyInfoInputs.cache
+D:\Programming\FigureCalc\obj\Debug\netcoreapp3.1\FigureCalc.AssemblyInfo.cs
+D:\Programming\FigureCalc\obj\Debug\netcoreapp3.1\FigureCalc.csproj.CoreCompileInputs.cache
+D:\Programming\FigureCalc\obj\Debug\netcoreapp3.1\FigureCalc.dll
+D:\Programming\FigureCalc\obj\Debug\netcoreapp3.1\FigureCalc.pdb
